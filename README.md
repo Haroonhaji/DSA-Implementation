@@ -1,0 +1,1 @@
+This repository contains efficient implementations of fundamental data structures in C and C++, designed to build a strong foundation in memory management, algorithmic correctness, and performance optimization.
