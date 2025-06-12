@@ -8,8 +8,8 @@ Features :
   
   Graph Algorithms: Implemented adjacency list and adjacency matrix representations with key algorithms such as:
     
-      Breadth-First Search (BFS) & Depth-First Search (DFS)
-      
-      Dijkstra’s Algorithm for shortest paths
-      
-      Minimum Spanning Tree (Prim’s & Kruskal’s Algorithms)
+  a) Breadth-First Search (BFS) & Depth-First Search (DFS)
+  
+  b) Dijkstra’s Algorithm for shortest paths
+  
+  c) Minimum Spanning Tree (Prim’s & Kruskal’s Algorithms)
